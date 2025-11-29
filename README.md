@@ -61,8 +61,9 @@
 ### 📈 GitHub Stats
 <div align="center">
 
-![Deependra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deependrapratapsingh855&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deependrapratapsingh855&layout=compact&theme=tokyonight&hide_border=true)
+![Deependra's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=deependrapratapsingh855&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=deependrapratapsingh855&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=deependrapratapsingh855&layout=compact&theme=tokyonight&hide_border=true))
+[![trophy](https://github-profile-trophy.vercel.app/?username=deependrapratapsingh855&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
